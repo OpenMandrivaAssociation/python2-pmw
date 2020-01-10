@@ -36,7 +36,7 @@ widgets, scrolled widgets and dialog windows.
 
 %prep
 %setup -qc -n %{module}-2.0.0
-%apply_patches
+%autopatch -p1
 
 %build
 %{__python2} setup.py build
