@@ -12,7 +12,7 @@ Version:	1.3.3
 Release:	1
 License:	MIT and GPLv2+
 Group:		Development/Python
-Url:		http://pmw.sourceforge.net/
+Url:		https://pmw.sourceforge.net/
 Source0:	https://pypi.python.org/packages/source/P/%{oname}/%{oname}-%{version}.tar.gz
 Buildarch:	noarch
 
